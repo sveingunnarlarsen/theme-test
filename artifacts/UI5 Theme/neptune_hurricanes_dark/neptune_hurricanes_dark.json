@@ -1,0 +1,11 @@
+{
+	"id": "04ed67c1-6f02-4636-9bab-b94fdeb4f5a0",
+	"createdAt": "2024-10-01T07:12:26.567Z",
+	"createdBy": "morten",
+	"theme": "neptune_hurricanes_dark",
+	"ver": "24.10.10.2216",
+	"ui5ver": "1.120.21",
+	"extends": "sap_horizon_dark",
+	"description": "Neptune Hurricanes Dark 1.120",
+	"package": "6ed3786e-4487-ef11-9f33-b03cdca73631"
+}

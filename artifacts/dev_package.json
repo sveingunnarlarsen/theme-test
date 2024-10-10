@@ -1,0 +1,58 @@
+{
+	"id": "6ed3786e-4487-ef11-9f33-b03cdca73631",
+	"createdAt": "2024-10-10T20:15:46.270Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/theme-test.git"
+	},
+	"name": "ThemeTest",
+	"description": null,
+	"ver": "24.10.10.2216",
+	"enableCICD": true,
+	"excludeTemplateFiles": true,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [
+		{
+			"id": "dab17d3f-3000-4298-815c-5c406fb082b5",
+			"theme": "neptune_hurricanes_light",
+			"description": "Neptune Hurricanes Light 1.120"
+		},
+		{
+			"id": "04ed67c1-6f02-4636-9bab-b94fdeb4f5a0",
+			"theme": "neptune_hurricanes_dark",
+			"description": "Neptune Hurricanes Dark 1.120"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": "dab17d3f-3000-4298-815c-5c406fb082b5",
+	"createdAt": "2024-10-01T09:41:04.449Z",
+	"createdBy": "morten",
+	"theme": "neptune_hurricanes_light",
+	"ver": "24.10.10.2217",
+	"ui5ver": "1.120.21",
+	"extends": "sap_horizon",
+	"description": "Neptune Hurricanes Light 1.120",
+	"package": "6ed3786e-4487-ef11-9f33-b03cdca73631"
+}
